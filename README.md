@@ -1,4 +1,4 @@
-# FrontEnd-Useful-Library
+# FrontEnd-Useful-Library, MORE TO COME
 All the frontend libraries you need to know:
 
 My facebook Profile in case you want to chat: https://www.facebook.com/raymond.seger.37
@@ -20,5 +20,5 @@ http://foundation.zurb.com/
 https://github.com/jariz/vibrant.js
 
 <h3>CSS preprocessor:</h3>
-http://lesscss.org/
+http://lesscss.org/ <br />
 sass-lang.com/
