@@ -21,4 +21,4 @@ https://github.com/jariz/vibrant.js
 
 <h3>CSS preprocessor:</h3>
 http://lesscss.org/ <br />
-sass-lang.com/
+http://sass-lang.com/
